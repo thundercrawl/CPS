@@ -25,5 +25,9 @@
   <modules>
   	<module>WebUI</module>
   	<module>Logger</module>
+  	
+  	<module>Engine</module>
+  	<module>SystemModule</module>
+  	<module>DataStore</module>
   </modules>
 </project>
