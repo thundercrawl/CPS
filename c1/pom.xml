@@ -24,7 +24,7 @@
   </dependencies>
   <modules>
   	<module>WebUI</module>
-  	<module>Logger</module>
+  	
   	
   	<module>Engine</module>
   	<module>SystemModule</module>

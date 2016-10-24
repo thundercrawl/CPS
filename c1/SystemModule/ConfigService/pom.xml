@@ -4,13 +4,13 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>CPS</groupId>
-    <artifactId>c1</artifactId>
+    <artifactId>SystemModule</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>CPS</groupId>
-  <artifactId>SystemModule</artifactId>
+  <artifactId>ConfigService</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>SystemModule</name>
+  <name>ConfigService</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -23,9 +23,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <packaging>pom</packaging>
-  <modules>
-  	<module>Logger</module>
-  	<module>ConfigService</module>
-  </modules>
 </project>
