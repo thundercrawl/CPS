@@ -8,7 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>CPS</groupId>
-  <artifactId>SystemModule</artifactId>
+  <artifactId>SystemModules</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>SystemModule</name>
   <url>http://maven.apache.org</url>

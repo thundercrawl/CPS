@@ -3,6 +3,7 @@
 	<name>MongoData</name>
 	<comment></comment>
 	<projects>
+		<project>SystemModules</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

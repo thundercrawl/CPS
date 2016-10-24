@@ -27,7 +27,12 @@
   	
   	
   	<module>Engine</module>
-  	<module>SystemModule</module>
+  	
   	<module>DataStore</module>
+  	
+  	
+  	<module>SystemModule</module>
+  	<module>SystemModule/ConfigService</module>
+  	<module>SystemModule/Logger</module>
   </modules>
 </project>
