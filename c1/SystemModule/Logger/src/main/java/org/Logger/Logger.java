@@ -6,4 +6,5 @@ public interface Logger {
 	void LogFinest(String s1);
 	void LogError(String s1);
 	void LogWarning(String s1);
+	void LogSevere(String s1);
 }

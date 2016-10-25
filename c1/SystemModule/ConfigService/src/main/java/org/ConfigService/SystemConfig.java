@@ -3,7 +3,7 @@ package org.ConfigService;
 
 
 public enum SystemConfig {
-	CPS_MONITOR_ENABLED(Type.DEFAULT,0)
+	CPS_MONITOR_ENABLED(Type.DEFAULT,0);
 
 	public enum Type{
 		DEFAULT,

@@ -1,7 +1,7 @@
 package org.Logger;
 
 public class Logger4jImpl implements Logger {
-
+//#[Thread_ID] [USER] [LogLevel] [Time] [Stack]
 	public void LogInfo(String s1) {
 		// TODO Auto-generated method stub
 
