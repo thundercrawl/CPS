@@ -27,4 +27,9 @@ public class Logger4jImpl implements Logger {
 
 	}
 
+	public void LogSevere(String s1) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

@@ -17,6 +17,24 @@ public enum SystemConfig {
 		DefaultType = type;
 		DefaultValue = value;
 	}
+	
+	/*Server status*/
+	public enum ServerStatus
+	{
+		Unknown(-1),Initial(0),Running(1),Stopping(2),Shutdown(3);
+		private int status;
+		ServerStatus(final int _s)
+		{
+			status = _s;
+		}
+		static public void addServerStatus()
+		{
+			
+		}
+	}
+	
+	
+	/*LogLevel*/
 	public	enum LogLevel{
 		SEVERE(1), WARNING(2), INFO(3), FINE(4), FINER(5), FINEST(6);
 
